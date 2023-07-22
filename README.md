@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hariprasath-jd&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://github.com/hariprasath-jd/hariprasath-jd/meme.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hariprasath-jd&icon=2&color=8)](https://visitcount.itsvg.in)
