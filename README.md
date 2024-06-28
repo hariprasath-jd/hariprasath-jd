@@ -21,9 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hariprasath-jd&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
+### Tropies
+[![trophy](https://github-profile-trophy.vercel.app/?username=hariprasath-jd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 😂 Random Dev Meme
 <img src="https://github.com/hariprasath-jd/hariprasath-jd/blob/main/meme.png" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hariprasath-jd&icon=2&color=8)](https://visitcount.itsvg.in)
 
