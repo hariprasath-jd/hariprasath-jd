@@ -13,16 +13,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasath-jd&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hari-prasath-jd&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hariprasath-jd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hariprasath-jd&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
-### Tropies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hariprasath-jd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 😂 Random Dev Meme
 <img src="https://github.com/hariprasath-jd/hariprasath-jd/blob/main/meme.png" width="512px"/>
